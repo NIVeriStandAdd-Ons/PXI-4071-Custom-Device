@@ -1,6 +1,6 @@
 ## NI-DMM Custom Device ##
 
-**NI-DMM Custom Device** is a custom device developed to integrate the PXI-4072 DMM into NI VeriStand.
+**NI-DMM Custom Device** integrates the PXI-4072 DMM into NI VeriStand.
 
 ### LabVIEW Version ###
 
